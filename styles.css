@@ -1,0 +1,33 @@
+*{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+ul{
+    list-style-type: square;
+}
+img {
+    border: 12px solid rgb(0, 0, 0);
+    border-radius: 20%;
+}
+.ead{
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    border: solid 2px bisque;
+    background-color: rgb(255, 220, 177);
+    border-radius: 10%;
+}
+.ind{
+background-color: burlywood;
+}
+.recipe{
+    background-color: blanchedalmond;
+}
+.eader{
+    background-color: rgb(241, 227, 170);
+}
+.inti{
+    background-color:rgb(236, 188, 125);
+}
+.iti{
+    background-color:rgb(255, 213, 158);
+}
